@@ -1,0 +1,33 @@
+h1 {
+  color: rgb(179, 103, 103);
+  font-style: italic;
+}
+
+.person {
+  color: grey;
+  padding-top: 3px;
+  font-size: 15px;
+}
+
+button {
+  color: brown;
+  font-weight: bold;
+}
+
+.success {
+  color: green;
+  font-size: 20px;
+  font-weight: bold;
+  border-radius: 4px;
+  padding: 2px;
+  margin-bottom: 10px;
+}
+
+.error {
+  color: red;
+  font-size: 20px;
+  font-weight: bolder;
+  border-radius: 4px;
+  padding: 2px;
+  margin-bottom: 10px;
+}
