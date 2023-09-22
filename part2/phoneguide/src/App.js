@@ -123,7 +123,7 @@ const deletePerson = (id) => {
 
   return (
     <div>
-      <h1>Phonebook</h1>
+      <h1>PHONEBOOK - by Giorgio -</h1>
       <Message 
         message={message}
         className={className}/>
